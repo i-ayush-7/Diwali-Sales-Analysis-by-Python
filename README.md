@@ -1,4 +1,4 @@
-# Diwali-Sales-Analysis-by-Python
+# Diwali Sales Analysis by Python
 
 The Jupyter Notebook file performs an exploratory data analysis (EDA) of Diwali Sales Data.
 
